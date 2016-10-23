@@ -11,9 +11,9 @@ Print it on two sides on one A4 sheet.
 * Check this repository for updates and repeat :)
 
 ## TODO
-* Add English version.
-* Generate printable schedule for all weeks in year.
-* Add title with number of the week in “12 week year”.
-* Find a way to combine all weeks in handy format.
-* Year must have a nice cover with dates and maybe goals.
+- [ ] Add English version.
+- [ ] Generate printable schedule for all weeks in year.
+- [ ] Add title with number of the week in “12 week year”.
+- [ ] Find a way to combine all weeks in handy format.
+- [ ] Year must have a nice cover with dates and maybe goals.
 
